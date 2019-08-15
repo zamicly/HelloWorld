@@ -8,12 +8,12 @@ package my.code;
  */
 public class HelloWorld {
 
-	/**
-	 * Main Method
-	 *
-	 * @param args
-	 */
-	public static void main(String[] args) {
-		System.out.println("Hello World!");
-	}
+    /**
+     * Main Method
+     *
+     * @param args
+     */
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
 }
