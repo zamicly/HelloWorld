@@ -1,7 +1,7 @@
 package my.code;
 
 /**
- * Description
+ * This program simply prints a Hello World message
  *
  * @author Zane Clymer
  * @date Aug 14, 2019
